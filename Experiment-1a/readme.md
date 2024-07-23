@@ -2,7 +2,7 @@
 ![program file](program.png)
 
 # sample output
-![sample output](sample output.png)
+![sampleoutput](sampleoutput.png)
 
 # tested output
-![tested output](tested output.png)
+![testedoutput](testedoutput.png)
